@@ -1,4 +1,4 @@
-# Cloud-Based Ticket Management System Design Document
+# Cloud-Based Ticket Management System
 
 ## Overview
 This design document outlines a ticket management system that emphasizes user-friendly interfaces, real-time updates, and advanced feature integration like NLP, structured to be scalable, secure, and compliant.
